@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "309353635654",
+    "firebase_url": "https://testadmob-efbdf.firebaseio.com",
+    "project_id": "testadmob-efbdf",
+    "storage_bucket": "testadmob-efbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309353635654:android:1979594c29b63893",
+        "android_client_info": {
+          "package_name": "com.example.byonge.test_admob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309353635654-8dtndf3qnrmvravfnde3v697535hlilm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.byonge.test_admob",
+            "certificate_hash": "722EBBA570CA2A83FDF296253C48EABC41F97159"
+          }
+        },
+        {
+          "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNdG9VAmYrp88sefReXn5DVxaN5m2qAu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309353635654-tjhk7p8rjeeuvvths5c1eh5fo1i0mj0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
